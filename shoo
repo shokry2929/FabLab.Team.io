@@ -1,0 +1,8 @@
+ echo start updiating documentaion 
+ git pull 
+ git add .
+ git commit -m "shoo updata"
+ git push
+ echo i am done 
+
+
